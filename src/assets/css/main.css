@@ -146,6 +146,10 @@ p {
   color: var(--clr-primary-1);
   background: var(--clr-primary-8);
 }
+
+.btn a {
+  color: var(--clr-primary-9);
+}
 .center-btn {
   display: block;
   width: 12rem;
@@ -245,6 +249,10 @@ Navbar
 }
 .nav-links {
   display: none;
+}
+
+.resume-btn {
+  color: var(--clr-green-dark) !important;
 }
 @media screen and (min-width: 768px) {
   .toggle-btn {

@@ -19,6 +19,12 @@ const data = [
     text: "contact",
     url: "/contact/",
   },
+  {
+    id: 6,
+    text: "resume",
+    url: "/resume/",
+    cName: "resume-btn",
+  },
 ]
 
 export default data
