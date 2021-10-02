@@ -252,7 +252,7 @@ Navbar
 }
 
 .resume-btn {
-  color: var(--clr-green-dark) !important;
+  color: var(--clr-red-light) !important;
 }
 @media screen and (min-width: 768px) {
   .toggle-btn {
