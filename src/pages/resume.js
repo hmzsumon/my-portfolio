@@ -11,7 +11,7 @@ const resume = () => {
 
           <button type="submit" className="submit-btn btn">
             <a
-              href="https://pdfhost.io/v/KqWGFVHnf_HMs_Resumepdf.pdf"
+              href="https://pdfhost.io/v/~.ROSD9jf_HMs_Resume"
               rel="noopener noreferrer"
               target="_blank"
             >
